@@ -1,0 +1,8 @@
+Cambios Realizados:
+SEO: En el index agregue keywords y desciption, en todas las demas pages agregue un description.
+Agregue: 
+-Maps: en el main-index.
+-Mixing: en la navbar. Con parametros y sin parametros
+-Extend: en el footer.
+
+Saludos!
